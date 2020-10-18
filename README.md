@@ -3,9 +3,10 @@ The objective of the problem statement is to predict Total runs of a player in I
 
 ### FILES DESCRIPTION  
 1. DATA : CONTAINS ALL THE CSV/XLSX FILES
-2. EDA.ipynb : All the preprocessing, eda stuff, like which features is most important etc stuff is in this notebook.
-3. Feature_engineering.ipynb : In this notebook, all the new featueres has been created
-4. Train_Test.ipynb : Actual train and testing has been done in this notbook.
+2. SOLUTION : CONTAINS SOLUTION CSV AND DOC FILE
+3. EDA.ipynb : All the preprocessing, eda stuff, like which features is most important etc stuff is in this notebook.
+4. Feature_engineering.ipynb : In this notebook, all the new featueres has been created
+5. Train_Test.ipynb : Actual train and testing has been done in this notbook.
 
 ### EXPLANATION  
 
